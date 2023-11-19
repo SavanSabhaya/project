@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/drawable-v21/abc_edit_text_material.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-appcompat-1.4.1-22:/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/drawable-v21/abc_btn_colored_material.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-appcompat-1.4.1-22:/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-appcompat-1.4.1-22:/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/drawable-v21/notification_action_background.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-core-1.7.0-17:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/drawable-v21/abc_list_divider_material.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-appcompat-1.4.1-22:/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/drawable-v21/abc_dialog_material_background.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-appcompat-1.4.1-22:/drawable-v21/abc_dialog_material_background.xml"
+    }
+]

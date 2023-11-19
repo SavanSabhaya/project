@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/xml/backup_rules.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-jetified-tslocationmanager-v21-3.5.2-20:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/xml/tslocationmanager_file_provider_path.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-jetified-tslocationmanager-v21-3.5.2-20:/xml/tslocationmanager_file_provider_path.xml"
+    }
+]

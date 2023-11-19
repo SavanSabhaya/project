@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.huawei.hms.flutter.push.huawei_push-merged_res-14:/values-my-rMM/values-my-rMM.xml",
+            "map": [
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/4da3df462283d0480873149faf710dd3/transformed/jetified-push-6.11.0.300/res/values-my-rMM/values-my-rMM.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.huawei.hms.flutter.push.huawei_push-mergeReleaseResources-12:/values-my-rMM/values-my-rMM.xml",
+            "map": [
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/4da3df462283d0480873149faf710dd3/transformed/jetified-push-6.11.0.300/res/values-my-rMM/values-my-rMM.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

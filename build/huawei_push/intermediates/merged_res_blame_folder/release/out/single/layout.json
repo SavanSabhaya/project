@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.huawei.hms.flutter.push.huawei_push-merged_res-14:/layout/notification_action.xml",
+        "source": "com.huawei.hms.flutter.push.huawei_push-core-1.6.0-7:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.huawei.hms.flutter.push.huawei_push-merged_res-14:/layout/hwpush_trans_activity.xml",
+        "source": "com.huawei.hms.flutter.push.huawei_push-jetified-push-6.11.0.300-2:/layout/hwpush_trans_activity.xml"
+    },
+    {
+        "merged": "com.huawei.hms.flutter.push.huawei_push-merged_res-14:/layout/notification_action_tombstone.xml",
+        "source": "com.huawei.hms.flutter.push.huawei_push-core-1.6.0-7:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.huawei.hms.flutter.push.huawei_push-merged_res-14:/layout/custom_dialog.xml",
+        "source": "com.huawei.hms.flutter.push.huawei_push-core-1.6.0-7:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.huawei.hms.flutter.push.huawei_push-merged_res-14:/layout/notification_template_part_chronometer.xml",
+        "source": "com.huawei.hms.flutter.push.huawei_push-core-1.6.0-7:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.huawei.hms.flutter.push.huawei_push-merged_res-14:/layout/activity_endisable_service.xml",
+        "source": "com.huawei.hms.flutter.push.huawei_push-jetified-ui-6.9.0.300-5:/layout/activity_endisable_service.xml"
+    },
+    {
+        "merged": "com.huawei.hms.flutter.push.huawei_push-merged_res-14:/layout/notification_template_icon_group.xml",
+        "source": "com.huawei.hms.flutter.push.huawei_push-core-1.6.0-7:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.huawei.hms.flutter.push.huawei_push-merged_res-14:/layout/notification_template_part_time.xml",
+        "source": "com.huawei.hms.flutter.push.huawei_push-core-1.6.0-7:/layout/notification_template_part_time.xml"
+    }
+]

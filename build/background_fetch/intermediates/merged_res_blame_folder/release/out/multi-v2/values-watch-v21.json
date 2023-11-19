@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.transistorsoft.flutter.backgroundfetch.background_fetch-merged_res-15:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/12a22fba379acae95756b040df82b84b/transformed/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.transistorsoft.flutter.backgroundfetch.background_fetch-mergeReleaseResources-13:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/12a22fba379acae95756b040df82b84b/transformed/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

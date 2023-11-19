@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/menu/example_menu.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-core-1.7.0-17:/menu/example_menu.xml"
+    },
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/menu/example_menu2.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-core-1.7.0-17:/menu/example_menu2.xml"
+    }
+]

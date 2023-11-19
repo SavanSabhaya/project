@@ -1,0 +1,17 @@
+com.transistorsoft.flutter.backgroundfetch.background_fetch-jetified-annotation-experimental-1.1.0-0 /Users/bhavinsabhaya/.gradle/caches/transforms-3/04a7dd9d567035a5190e5419adae96c4/transformed/jetified-annotation-experimental-1.1.0/res
+com.transistorsoft.flutter.backgroundfetch.background_fetch-appcompat-1.1.0-1 /Users/bhavinsabhaya/.gradle/caches/transforms-3/12a22fba379acae95756b040df82b84b/transformed/appcompat-1.1.0/res
+com.transistorsoft.flutter.backgroundfetch.background_fetch-fragment-1.2.0-2 /Users/bhavinsabhaya/.gradle/caches/transforms-3/49455fb9d75382a2dda538700a97a78e/transformed/fragment-1.2.0/res
+com.transistorsoft.flutter.backgroundfetch.background_fetch-jetified-window-java-1.0.0-beta04-3 /Users/bhavinsabhaya/.gradle/caches/transforms-3/555d2811eed8c0d82728d39d05bd38ca/transformed/jetified-window-java-1.0.0-beta04/res
+com.transistorsoft.flutter.backgroundfetch.background_fetch-jetified-appcompat-resources-1.1.0-4 /Users/bhavinsabhaya/.gradle/caches/transforms-3/641c74f01deabb43bf3afc6fe9534cd7/transformed/jetified-appcompat-resources-1.1.0/res
+com.transistorsoft.flutter.backgroundfetch.background_fetch-lifecycle-runtime-2.4.1-5 /Users/bhavinsabhaya/.gradle/caches/transforms-3/65f2a34a4f2072783e21217c9ca08f11/transformed/lifecycle-runtime-2.4.1/res
+com.transistorsoft.flutter.backgroundfetch.background_fetch-jetified-window-1.0.0-beta04-6 /Users/bhavinsabhaya/.gradle/caches/transforms-3/87a71627d950e7c6eaab51f30285b636/transformed/jetified-window-1.0.0-beta04/res
+com.transistorsoft.flutter.backgroundfetch.background_fetch-jetified-tsbackgroundfetch-1.0.2-7 /Users/bhavinsabhaya/.gradle/caches/transforms-3/b2b759b5acfaa81b619da146a66447c7/transformed/jetified-tsbackgroundfetch-1.0.2/res
+com.transistorsoft.flutter.backgroundfetch.background_fetch-core-1.6.0-8 /Users/bhavinsabhaya/.gradle/caches/transforms-3/e8427d36b96cca8055fb1271af03fe65/transformed/core-1.6.0/res
+com.transistorsoft.flutter.backgroundfetch.background_fetch-main-9 /Users/bhavinsabhaya/.pub-cache/hosted/pub.dev/background_fetch-1.2.1/android/src/main/res
+com.transistorsoft.flutter.backgroundfetch.background_fetch-release-10 /Users/bhavinsabhaya/.pub-cache/hosted/pub.dev/background_fetch-1.2.1/android/src/release/res
+com.transistorsoft.flutter.backgroundfetch.background_fetch-pngs-11 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/background_fetch/generated/res/pngs/release
+com.transistorsoft.flutter.backgroundfetch.background_fetch-resValues-12 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/background_fetch/generated/res/resValues/release
+com.transistorsoft.flutter.backgroundfetch.background_fetch-rs-13 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/background_fetch/generated/res/rs/release
+com.transistorsoft.flutter.backgroundfetch.background_fetch-mergeReleaseResources-14 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/background_fetch/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.transistorsoft.flutter.backgroundfetch.background_fetch-mergeReleaseResources-15 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/background_fetch/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.transistorsoft.flutter.backgroundfetch.background_fetch-merged_res-16 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/background_fetch/intermediates/merged_res/release

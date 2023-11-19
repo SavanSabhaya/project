@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-appcompat-1.4.1-22:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-appcompat-1.4.1-22:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

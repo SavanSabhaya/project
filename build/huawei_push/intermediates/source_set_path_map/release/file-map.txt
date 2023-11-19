@@ -1,0 +1,16 @@
+com.huawei.hms.flutter.push.huawei_push-jetified-annotation-experimental-1.1.0-0 /Users/bhavinsabhaya/.gradle/caches/transforms-3/04a7dd9d567035a5190e5419adae96c4/transformed/jetified-annotation-experimental-1.1.0/res
+com.huawei.hms.flutter.push.huawei_push-jetified-drawee-2.6.0-1 /Users/bhavinsabhaya/.gradle/caches/transforms-3/10f1ba6af4ce3bb118c0217b79ec68a4/transformed/jetified-drawee-2.6.0/res
+com.huawei.hms.flutter.push.huawei_push-jetified-push-6.11.0.300-2 /Users/bhavinsabhaya/.gradle/caches/transforms-3/4da3df462283d0480873149faf710dd3/transformed/jetified-push-6.11.0.300/res
+com.huawei.hms.flutter.push.huawei_push-jetified-window-java-1.0.0-beta04-3 /Users/bhavinsabhaya/.gradle/caches/transforms-3/555d2811eed8c0d82728d39d05bd38ca/transformed/jetified-window-java-1.0.0-beta04/res
+com.huawei.hms.flutter.push.huawei_push-jetified-window-1.0.0-beta04-4 /Users/bhavinsabhaya/.gradle/caches/transforms-3/87a71627d950e7c6eaab51f30285b636/transformed/jetified-window-1.0.0-beta04/res
+com.huawei.hms.flutter.push.huawei_push-jetified-ui-6.9.0.300-5 /Users/bhavinsabhaya/.gradle/caches/transforms-3/ba41e6ff47f1530f1fb79160541ce65d/transformed/jetified-ui-6.9.0.300/res
+com.huawei.hms.flutter.push.huawei_push-jetified-opendevice-6.11.0.300-6 /Users/bhavinsabhaya/.gradle/caches/transforms-3/bce049eeb844a9823737c5d524dc1435/transformed/jetified-opendevice-6.11.0.300/res
+com.huawei.hms.flutter.push.huawei_push-core-1.6.0-7 /Users/bhavinsabhaya/.gradle/caches/transforms-3/e8427d36b96cca8055fb1271af03fe65/transformed/core-1.6.0/res
+com.huawei.hms.flutter.push.huawei_push-main-8 /Users/bhavinsabhaya/.pub-cache/hosted/pub.dev/huawei_push-6.11.0+300/android/src/main/res
+com.huawei.hms.flutter.push.huawei_push-release-9 /Users/bhavinsabhaya/.pub-cache/hosted/pub.dev/huawei_push-6.11.0+300/android/src/release/res
+com.huawei.hms.flutter.push.huawei_push-pngs-10 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/huawei_push/generated/res/pngs/release
+com.huawei.hms.flutter.push.huawei_push-resValues-11 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/huawei_push/generated/res/resValues/release
+com.huawei.hms.flutter.push.huawei_push-rs-12 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/huawei_push/generated/res/rs/release
+com.huawei.hms.flutter.push.huawei_push-mergeReleaseResources-13 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/huawei_push/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.huawei.hms.flutter.push.huawei_push-mergeReleaseResources-14 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/huawei_push/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.huawei.hms.flutter.push.huawei_push-merged_res-15 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/huawei_push/intermediates/merged_res/release

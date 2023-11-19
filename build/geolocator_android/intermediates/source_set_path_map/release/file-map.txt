@@ -1,0 +1,15 @@
+com.baseflow.geolocator.geolocator_android-lifecycle-runtime-2.3.1-0 /Users/bhavinsabhaya/.gradle/caches/transforms-3/4148f6668ad6d072103190a2901c097b/transformed/lifecycle-runtime-2.3.1/res
+com.baseflow.geolocator.geolocator_android-jetified-window-java-1.0.0-beta04-1 /Users/bhavinsabhaya/.gradle/caches/transforms-3/555d2811eed8c0d82728d39d05bd38ca/transformed/jetified-window-java-1.0.0-beta04/res
+com.baseflow.geolocator.geolocator_android-jetified-play-services-base-18.1.0-2 /Users/bhavinsabhaya/.gradle/caches/transforms-3/56741c29764f251811e87aa14a9b592d/transformed/jetified-play-services-base-18.1.0/res
+com.baseflow.geolocator.geolocator_android-core-1.9.0-3 /Users/bhavinsabhaya/.gradle/caches/transforms-3/776acfbf65ce331cb2fdcb3dc5ed0f7c/transformed/core-1.9.0/res
+com.baseflow.geolocator.geolocator_android-jetified-window-1.0.0-beta04-4 /Users/bhavinsabhaya/.gradle/caches/transforms-3/87a71627d950e7c6eaab51f30285b636/transformed/jetified-window-1.0.0-beta04/res
+com.baseflow.geolocator.geolocator_android-jetified-play-services-basement-18.1.0-5 /Users/bhavinsabhaya/.gradle/caches/transforms-3/b8b7ba7f89a2de63ea7a563f8ed8b1ad/transformed/jetified-play-services-basement-18.1.0/res
+com.baseflow.geolocator.geolocator_android-jetified-annotation-experimental-1.3.0-6 /Users/bhavinsabhaya/.gradle/caches/transforms-3/bb322434079b88393146736699579367/transformed/jetified-annotation-experimental-1.3.0/res
+com.baseflow.geolocator.geolocator_android-main-7 /Users/bhavinsabhaya/.pub-cache/hosted/pub.dev/geolocator_android-4.4.0/android/src/main/res
+com.baseflow.geolocator.geolocator_android-release-8 /Users/bhavinsabhaya/.pub-cache/hosted/pub.dev/geolocator_android-4.4.0/android/src/release/res
+com.baseflow.geolocator.geolocator_android-pngs-9 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/geolocator_android/generated/res/pngs/release
+com.baseflow.geolocator.geolocator_android-resValues-10 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/geolocator_android/generated/res/resValues/release
+com.baseflow.geolocator.geolocator_android-rs-11 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/geolocator_android/generated/res/rs/release
+com.baseflow.geolocator.geolocator_android-mergeReleaseResources-12 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/geolocator_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.baseflow.geolocator.geolocator_android-mergeReleaseResources-13 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/geolocator_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.baseflow.geolocator.geolocator_android-merged_res-14 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/geolocator_android/intermediates/merged_res/release

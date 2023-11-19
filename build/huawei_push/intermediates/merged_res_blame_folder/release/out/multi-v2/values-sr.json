@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.huawei.hms.flutter.push.huawei_push-mergeReleaseResources-12:/values-sr/values-sr.xml",
+            "map": [
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/4da3df462283d0480873149faf710dd3/transformed/jetified-push-6.11.0.300/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "82",
+                        "endOffsets": "133"
+                    }
+                },
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/e8427d36b96cca8055fb1271af03fe65/transformed/core-1.6.0/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "138",
+                        "endColumns": "100",
+                        "endOffsets": "234"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.huawei.hms.flutter.push.huawei_push-merged_res-14:/values-sr/values-sr.xml",
+            "map": [
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/4da3df462283d0480873149faf710dd3/transformed/jetified-push-6.11.0.300/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "82",
+                        "endOffsets": "133"
+                    }
+                },
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/e8427d36b96cca8055fb1271af03fe65/transformed/core-1.6.0/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "138",
+                        "endColumns": "100",
+                        "endOffsets": "234"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.huawei.hms.flutter.push.huawei_push-merged_res-14:/values-el/values-el.xml",
+            "map": [
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/4da3df462283d0480873149faf710dd3/transformed/jetified-push-6.11.0.300/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "88",
+                        "endOffsets": "139"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "965",
+                        "endColumns": "88",
+                        "endOffsets": "1049"
+                    }
+                },
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/e8427d36b96cca8055fb1271af03fe65/transformed/core-1.6.0/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "1123",
+                        "endColumns": "100",
+                        "endOffsets": "1219"
+                    }
+                },
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/ba41e6ff47f1530f1fb79160541ce65d/transformed/jetified-ui-6.9.0.300/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,272,627,694,965",
+                        "endColumns": "216,354,66,270,68",
+                        "endOffsets": "267,622,689,960,1029"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,272,627,694,1054",
+                        "endColumns": "216,354,66,270,68",
+                        "endOffsets": "267,622,689,960,1118"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.huawei.hms.flutter.push.huawei_push-mergeReleaseResources-12:/values-el/values-el.xml",
+            "map": [
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/4da3df462283d0480873149faf710dd3/transformed/jetified-push-6.11.0.300/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "88",
+                        "endOffsets": "139"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "965",
+                        "endColumns": "88",
+                        "endOffsets": "1049"
+                    }
+                },
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/e8427d36b96cca8055fb1271af03fe65/transformed/core-1.6.0/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "1123",
+                        "endColumns": "100",
+                        "endOffsets": "1219"
+                    }
+                },
+                {
+                    "source": "/Users/bhavinsabhaya/.gradle/caches/transforms-3/ba41e6ff47f1530f1fb79160541ce65d/transformed/jetified-ui-6.9.0.300/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,272,627,694,965",
+                        "endColumns": "216,354,66,270,68",
+                        "endOffsets": "267,622,689,960,1029"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,272,627,694,1054",
+                        "endColumns": "216,354,66,270,68",
+                        "endOffsets": "267,622,689,960,1118"
+                    }
+                }
+            ]
+        }
+    ]
+}

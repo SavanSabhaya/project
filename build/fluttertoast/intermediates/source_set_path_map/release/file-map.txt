@@ -1,0 +1,12 @@
+io.github.ponnamkarthik.toast.fluttertoast-jetified-annotation-experimental-1.1.0-0 /Users/bhavinsabhaya/.gradle/caches/transforms-3/04a7dd9d567035a5190e5419adae96c4/transformed/jetified-annotation-experimental-1.1.0/res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-java-1.0.0-beta04-1 /Users/bhavinsabhaya/.gradle/caches/transforms-3/555d2811eed8c0d82728d39d05bd38ca/transformed/jetified-window-java-1.0.0-beta04/res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-1.0.0-beta04-2 /Users/bhavinsabhaya/.gradle/caches/transforms-3/87a71627d950e7c6eaab51f30285b636/transformed/jetified-window-1.0.0-beta04/res
+io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-3 /Users/bhavinsabhaya/.gradle/caches/transforms-3/e8427d36b96cca8055fb1271af03fe65/transformed/core-1.6.0/res
+io.github.ponnamkarthik.toast.fluttertoast-main-4 /Users/bhavinsabhaya/.pub-cache/hosted/pub.dev/fluttertoast-8.2.4/android/src/main/res
+io.github.ponnamkarthik.toast.fluttertoast-release-5 /Users/bhavinsabhaya/.pub-cache/hosted/pub.dev/fluttertoast-8.2.4/android/src/release/res
+io.github.ponnamkarthik.toast.fluttertoast-pngs-6 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/fluttertoast/generated/res/pngs/release
+io.github.ponnamkarthik.toast.fluttertoast-resValues-7 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/fluttertoast/generated/res/resValues/release
+io.github.ponnamkarthik.toast.fluttertoast-rs-8 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/fluttertoast/generated/res/rs/release
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-9 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/fluttertoast/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-10 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/fluttertoast/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.github.ponnamkarthik.toast.fluttertoast-merged_res-11 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/fluttertoast/intermediates/merged_res/release

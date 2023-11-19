@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-core-1.7.0-17:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-core-1.7.0-17:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/layout-v21/notification_action.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-core-1.7.0-17:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-merged_res-33:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.transistorsoft.flutter.backgroundgeolocation.flutter_background_geolocation-core-1.7.0-17:/layout-v21/notification_template_custom_big.xml"
+    }
+]

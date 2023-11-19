@@ -1,0 +1,12 @@
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-annotation-experimental-1.1.0-0 /Users/bhavinsabhaya/.gradle/caches/transforms-3/04a7dd9d567035a5190e5419adae96c4/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-window-java-1.0.0-beta04-1 /Users/bhavinsabhaya/.gradle/caches/transforms-3/555d2811eed8c0d82728d39d05bd38ca/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-window-1.0.0-beta04-2 /Users/bhavinsabhaya/.gradle/caches/transforms-3/87a71627d950e7c6eaab51f30285b636/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.6.0-3 /Users/bhavinsabhaya/.gradle/caches/transforms-3/e8427d36b96cca8055fb1271af03fe65/transformed/core-1.6.0/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-main-4 /Users/bhavinsabhaya/.pub-cache/hosted/pub.dev/shared_preferences_android-2.2.0/android/src/main/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-release-5 /Users/bhavinsabhaya/.pub-cache/hosted/pub.dev/shared_preferences_android-2.2.0/android/src/release/res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-pngs-6 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/shared_preferences_android/generated/res/pngs/release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-resValues-7 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/shared_preferences_android/generated/res/resValues/release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-rs-8 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/shared_preferences_android/generated/res/rs/release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-9 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/shared_preferences_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-10 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/shared_preferences_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-11 /Users/bhavinsabhaya/Desktop/saone/project/PMCK/build/shared_preferences_android/intermediates/merged_res/release
